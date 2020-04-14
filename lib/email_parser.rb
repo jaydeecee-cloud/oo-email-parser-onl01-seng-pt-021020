@@ -21,5 +21,3 @@ class EmailParser
 end
 
 parser = EmailParser.new(emails)
-
-puts parser.parse
