@@ -19,4 +19,5 @@ class EmailParser
   end
 end
 
+
 parser = EmailParser.new(emails)
