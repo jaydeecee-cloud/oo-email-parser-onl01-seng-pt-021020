@@ -19,5 +19,5 @@ class EmailParser
   end
 end
 
-
+emails = "hpotter@hogwarts.org, he_who_must_not_be_named@riddleshouse.net"
 parser = EmailParser.new(emails)
